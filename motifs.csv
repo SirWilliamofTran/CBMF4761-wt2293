@@ -1,0 +1,64 @@
+﻿Region,Motif,Risk/Impact,Implications for Drug Developability,Occurrence Score
+CDR,M,Oxidation,Potency (CDC),[TBD in this Work]
+CDR,W,Oxidation,Potency (CDC),[TBD in this Work]
+CDR,DG,Isomerization,Binding Affinity,[TBD in this Work]
+CDR,DH,Isomerization,Binding Affinity,[TBD in this Work]
+CDR,DS,Isomerization,Binding Affinity,[TBD in this Work]
+CDR,K,Glycosylation,Identity,[TBD in this Work]
+CDR,N.S,Glycosylation,Biodistribution and PK,[TBD in this Work]
+CDR,N.T,Glycosylation,Biodistribution and PK,[TBD in this Work]
+CDR,C,Disulfide Bond Formation,Purity,[TBD in this Work]
+CDR,NG,Deamidation,Binding Affinity,[TBD in this Work]
+CDR,NS,Deamidation,Binding Affinity,[TBD in this Work]
+CDR,NT,Deamidation,Binding Affinity,[TBD in this Work]
+Fc,RSNWP,Deamidation,PK and Potency (ADCC),[TBD in this Work]
+Fc,SSNIG,Deamidation,PK and Potency (ADCC),[TBD in this Work]
+Fc,SINSA,Deamidation,PK and Potency (ADCC),[TBD in this Work]
+Fc,PGNGL,Deamidation,PK and Potency (ADCC),[TBD in this Work]
+Fv,ESNGQ,Deamidation,PK and Potency (ADCC),[TBD in this Work]
+Fv,PENNY,Deamidation,PK and Potency (ADCC),[TBD in this Work]
+CDR,LLIYSASFLY,Aggregation,Quality,9
+CDR,LLIYAASYL,Aggregation,Quality,9
+CDR,LLIYGA…,Aggregation,Quality,9
+CDR,LLIYAA…,Aggregation,Quality,9
+CDR,VLIYF….,Aggregation,Quality,9
+CDR,LGIYF,Aggregation,Quality,1
+CDR,YCQQNNN,Aggregation,Quality,8
+CDR,YCQQHNE,Aggregation,Quality,8
+CDR,YCQQYS.,Aggregation,Quality,8
+CDR,YCQQYN.,Aggregation,Quality,8
+CDR,YCQQHY.,Aggregation,Quality,8
+CDR,YCLQYD.,Aggregation,Quality,8
+CDR,YCQQS..,Aggregation,Quality,8
+CDR,YIFSNYWIQWV,Aggregation,Quality,3
+CDR,.IFTDF….,Aggregation,Quality,3
+CDR,...YYWTWI,Aggregation,Quality,3
+CDR,IGAIY,Aggregation,Quality,6
+CDR,LGVIW,Aggregation,Quality,6
+CDR,IGYIS,Aggregation,Quality,6
+CDR,IGYIY,Aggregation,Quality,6
+CDR,TTEYN.,Aggregation,Quality,3
+CDR,.TEYNQ,Aggregation,Quality,3
+CDR,.TNYNQ,Aggregation,Quality,3
+CDR,VTMLV,Aggregation,Quality,1
+CDR,IYYCV,Aggregation,Quality,1
+CDR,VVYYSNSYWYF…,Aggregation,Quality,5
+CDR,IFYFYGTTY-F---,Aggregation,Quality,5
+CDR,..DDHYC…,Aggregation,Quality,5
+CDR,…..FAVWG,Aggregation,Quality,5
+CH2,SVFLFPP,Aggregation,Quality,15
+CH2,SVFLFP.,Aggregation,Quality,15
+CH2,SVFIFP.,Aggregation,Quality,15
+CH2,VLMISL,Aggregation,Quality,1
+CH2,IVTCVVV,Aggregation,Quality,1
+CH2,VVSVLTVL,Aggregation,Quality,14
+CH2,VVSVLTVV,Aggregation,Quality,14
+CH2,GSFFLYS,Aggregation,Quality,14
+CH2,GSFFLY.,Aggregation,Quality,14
+CH3,.SFFLYS,Aggregation,Quality,14
+CH3,.SFFLY.,Aggregation,Quality,14
+CL,SVFIFP,Aggregation,Quality,17
+CL,SVFIF.,Aggregation,Quality,17
+CL,TVFIFP,Aggregation,Quality,17
+CL,VVCLL,Aggregation,Quality,19
+CL,VVCFL,Aggregation,Quality,19
